@@ -6,7 +6,7 @@
         <div class="row justify-content-center">
             <div class="col-md-8">
                 <div class="card">
-                    <div class="card-header">{{ $taco }} Mailer</div>
+                    <div class="card-header">Mailer Form</div>
 
                     <div class="card-body">
 
